@@ -13,5 +13,5 @@ eureka:
 env:
   dev1
 girl:
-  name: 1122
-  age: 1122
+  name: 2
+  age: 2
