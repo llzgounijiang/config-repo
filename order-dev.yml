@@ -13,5 +13,5 @@ eureka:
 env:
   dev1
 girl:
-  name: liliqqqq
-  age: 301
+  name: 1
+  age: 1
